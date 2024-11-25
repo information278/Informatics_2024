@@ -6,4 +6,5 @@ import (
 
 func main() {
 	lab4.Lab4()
+	fmt.Println("Гретченко Владислав")
 }
