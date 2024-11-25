@@ -12,7 +12,6 @@ func calculateY(x float64) (float64, error) {
 		return math.Acos(x), nil
 	} else {
 		return 0, fmt.Errorf("неверный x")
-
 	}
 }
 
